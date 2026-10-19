@@ -1,0 +1,24 @@
+# Blog do Pinterest Engine (GitHub Pages + Jekyll, tema minima).
+# Os posts (_posts/) e as imagens (assets/img/) chegam por commit do n8n (workflow "PIN - Produção de artigo").
+# Ao trocar para domínio próprio: mudar `url` aqui, criar CNAME e configurar o domínio no GitHub Pages.
+title: The Calm Desk
+description: Practical, calm ideas for desk setups, home offices and workspaces that help you focus.
+url: "https://vinisns22.github.io"
+baseurl: ""
+lang: en-US
+timezone: America/Sao_Paulo
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+permalink: /:title/
+show_excerpts: true
+header_pages:
+  - about.md
+  - privacy.md
+
+exclude:
+  - README.md

@@ -1,0 +1,9 @@
+---
+---
+@import "minima";
+
+// Imagens dos posts (WebP 1000 px, retrato): centralizadas, com legenda de crédito discreta.
+.pin-figure { margin: 1.5rem auto; max-width: 640px; text-align: center; }
+.pin-figure img { display: block; width: 100%; height: auto; border-radius: 6px; }
+.pin-figure figcaption { margin-top: .4rem; font-size: .8rem; color: #828282; }
+.pin-figure figcaption a { color: inherit; text-decoration: underline; }
