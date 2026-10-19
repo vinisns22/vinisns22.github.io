@@ -7,4 +7,4 @@ The Calm Desk shares practical ideas for desk setups, small home offices and wor
 
 Every article is a list of concrete, actionable ideas. We use generic product types instead of brands, and we never invent statistics or reviews.
 
-Photos come from [Pexels](https://www.pexels.com) and are credited to their photographers under each image. When no suitable photo exists, we use an AI-generated illustration, and the caption says so.
+Images come from free stock photo libraries, credited to their photographers under each image, or are AI-generated illustrations, and the caption says so.
