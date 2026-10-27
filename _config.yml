@@ -7,6 +7,8 @@ url: "https://calmdesksetup.com"
 baseurl: ""
 lang: en-US
 timezone: America/Sao_Paulo
+# Cloudflare Web Analytics (sem cookies; token público do beacon, não é segredo). Vazio = sem medição.
+cloudflare_analytics_token: "424967de38d749a0ac663c1c13adb8e4"
 
 theme: minima
 plugins:
