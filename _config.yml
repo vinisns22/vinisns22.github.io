@@ -11,7 +11,7 @@ timezone: America/Sao_Paulo
 cloudflare_analytics_token: "424967de38d749a0ac663c1c13adb8e4"
 # Verificação do Google Search Console (jekyll-seo-tag gera a meta google-site-verification; valor público).
 webmaster_verifications:
-  google: "Y7bZq0B3D5j8U3S3dF8oR8vQ9aV5bW6cE7eM3jH7x_w"
+  google: "0npXU2fdj732oxEHWyjxVDlqHnxJM1A3EOcSGzIULS8"
 
 theme: minima
 plugins:
